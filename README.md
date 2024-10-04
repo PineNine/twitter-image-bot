@@ -1,4 +1,4 @@
-# twitter-image-bot
+# twitter-image-uploader
 simple script to upload images from a folder to twitter.
 main purpose was to upload images but can upload other media types such as videos.
 
